@@ -22,6 +22,11 @@ NODES=(
 	"https://github.com/ltdrdata/ComfyUI-Manager"
     	"https://github.com/cubiq/ComfyUI_essentials"
     	"https://github.com/Fannovel16/comfyui_controlnet_aux"
+     	"https://github.com/WASasquatch/was-node-suite-comfyui"
+	"https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+	"https://github.com/storyicon/comfyui_segment_anything"
+	"https://github.com/NimaNzrii/comfyui-popup_preview"
+	"https://github.com/neverbiasu/ComfyUI-SAM2"
 )
 
 CHECKPOINT_MODELS=(
