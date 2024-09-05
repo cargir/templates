@@ -6,7 +6,7 @@
 
 # Packages are installed after nodes so we can fix them...
 
-DEFAULT_WORKFLOW="https://raw.githubusercontent.com/cargir/templates/main/AndreaClock.json"
+DEFAULT_WORKFLOW="https://raw.githubusercontent.com/cargir/templates/main/andreaclock.json"
 
 APT_PACKAGES=(
     #"package-1"
