@@ -83,8 +83,8 @@ function provisioning_start() {
     provisioning_get_pip_packages
  
 	# grounding-dino is different
-	
-	printf("\nWTF printf\n")
+
+ 	printf "\nWTF printf\n"
 	echo "WTF echo"
 	
 	provisioning_get_models \
