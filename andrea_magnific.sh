@@ -45,6 +45,7 @@ CHECKPOINT_MODELS=(
 
 UNET_MODELS=(
 	"https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fc.safetensors"
+ 	"https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fbc.safetensors"
 	"https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors"
 	#rename and move to clip_vision
 )
